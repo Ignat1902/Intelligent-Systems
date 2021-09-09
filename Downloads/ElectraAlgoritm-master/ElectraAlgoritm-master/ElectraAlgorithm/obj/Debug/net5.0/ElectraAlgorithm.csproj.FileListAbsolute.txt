@@ -1,0 +1,16 @@
+C:\Users\Milan_Sotskov\source\repos\ElectraAlgorithm\ElectraAlgorithm\bin\Debug\net5.0\ElectraAlgorithm.exe
+C:\Users\Milan_Sotskov\source\repos\ElectraAlgorithm\ElectraAlgorithm\bin\Debug\net5.0\ElectraAlgorithm.deps.json
+C:\Users\Milan_Sotskov\source\repos\ElectraAlgorithm\ElectraAlgorithm\bin\Debug\net5.0\ElectraAlgorithm.runtimeconfig.json
+C:\Users\Milan_Sotskov\source\repos\ElectraAlgorithm\ElectraAlgorithm\bin\Debug\net5.0\ElectraAlgorithm.runtimeconfig.dev.json
+C:\Users\Milan_Sotskov\source\repos\ElectraAlgorithm\ElectraAlgorithm\bin\Debug\net5.0\ElectraAlgorithm.dll
+C:\Users\Milan_Sotskov\source\repos\ElectraAlgorithm\ElectraAlgorithm\bin\Debug\net5.0\ref\ElectraAlgorithm.dll
+C:\Users\Milan_Sotskov\source\repos\ElectraAlgorithm\ElectraAlgorithm\bin\Debug\net5.0\ElectraAlgorithm.pdb
+C:\Users\Milan_Sotskov\source\repos\ElectraAlgorithm\ElectraAlgorithm\obj\Debug\net5.0\ElectraAlgorithm.csprojAssemblyReference.cache
+C:\Users\Milan_Sotskov\source\repos\ElectraAlgorithm\ElectraAlgorithm\obj\Debug\net5.0\ElectraAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milan_Sotskov\source\repos\ElectraAlgorithm\ElectraAlgorithm\obj\Debug\net5.0\ElectraAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Milan_Sotskov\source\repos\ElectraAlgorithm\ElectraAlgorithm\obj\Debug\net5.0\ElectraAlgorithm.AssemblyInfo.cs
+C:\Users\Milan_Sotskov\source\repos\ElectraAlgorithm\ElectraAlgorithm\obj\Debug\net5.0\ElectraAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Milan_Sotskov\source\repos\ElectraAlgorithm\ElectraAlgorithm\obj\Debug\net5.0\ElectraAlgorithm.dll
+C:\Users\Milan_Sotskov\source\repos\ElectraAlgorithm\ElectraAlgorithm\obj\Debug\net5.0\ref\ElectraAlgorithm.dll
+C:\Users\Milan_Sotskov\source\repos\ElectraAlgorithm\ElectraAlgorithm\obj\Debug\net5.0\ElectraAlgorithm.pdb
+C:\Users\Milan_Sotskov\source\repos\ElectraAlgorithm\ElectraAlgorithm\obj\Debug\net5.0\ElectraAlgorithm.genruntimeconfig.cache
